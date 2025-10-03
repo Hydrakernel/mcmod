@@ -1,0 +1,19 @@
+{
+  "enchantment.enchantmentplus.life_steal": "Life Steal",
+  "enchantment.enchantmentplus.thunder_strike": "Thunder Strike",
+  "enchantment.enchantmentplus.auto_smelt": "Auto Smelt",
+  "enchantment.enchantmentplus.vein_miner": "Vein Miner",
+  "enchantment.enchantmentplus.feather_fall": "Feather Fall",
+  "enchantment.enchantmentplus.poison_resistance": "Poison Resistance",
+  "enchantment.enchantmentplus.explosive_arrow": "Explosive Arrow",
+  "enchantment.enchantmentplus.homing_arrow": "Homing Arrow",
+  
+  "enchantment.enchantmentplus.life_steal.desc": "Heals the attacker when dealing damage",
+  "enchantment.enchantmentplus.thunder_strike.desc": "Strikes lightning on critical hits",
+  "enchantment.enchantmentplus.auto_smelt.desc": "Automatically smelts mined ores",
+  "enchantment.enchantmentplus.vein_miner.desc": "Mines entire veins of ores at once",
+  "enchantment.enchantmentplus.feather_fall.desc": "Reduces fall damage and grants slow falling",
+  "enchantment.enchantmentplus.poison_resistance.desc": "Reduces poison damage and duration",
+  "enchantment.enchantmentplus.explosive_arrow.desc": "Arrows explode on impact",
+  "enchantment.enchantmentplus.homing_arrow.desc": "Arrows track nearby enemies"
+}

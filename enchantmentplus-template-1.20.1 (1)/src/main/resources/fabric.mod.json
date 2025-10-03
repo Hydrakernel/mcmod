@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "id": "enchantmentplus",
+  "version": "1.0.0",
+  "name": "Enchantment Plus",
+  "description": "Adds new powerful enchantments to Minecraft",
+  "authors": ["YourName"],
+  "contact": {
+    "homepage": "https://example.com",
+    "sources": "https://github.com/yourname/enchantment-plus"
+  },
+  "license": "MIT",
+  "icon": "assets/enchantmentplus/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": ["com.enchantmentplusmod.EnchantmentPlusMod"]
+  },
+  "depends": {
+    "fabricloader": ">=0.14.21",
+    "fabric-api": "*",
+    "minecraft": "1.20.1"
+  }
+}
